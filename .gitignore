@@ -1,0 +1,25 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.loc
+*.lot
+*.out
+*.run.xml
+*.soc
+*.synctex.gz
+*.toc
+*.xdv
+
+# Generated PDF from the main document
+/Arbeit.pdf
+
+# Editor and OS files
+.vscode/
+desktop.ini
+Thumbs.db
