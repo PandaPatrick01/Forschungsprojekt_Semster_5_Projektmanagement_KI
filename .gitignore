@@ -12,6 +12,7 @@
 *.out
 *.run.xml
 *.soc
+*.synctex(busy)
 *.synctex.gz
 *.toc
 *.xdv
